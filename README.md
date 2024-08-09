@@ -74,19 +74,3 @@ Aspect-Oriented Programming (AOP) allows you to modularize cross-cutting concern
 ### Custom Annotations
 - Creating and using custom annotations to enhance functionality and code readability.
 
-## 🏗️ Project Structure
-
-```plaintext
-spring-core/
-│
-├── src/main/java/com/springcore/
-│   ├── config/             # Configuration files
-│   ├── controller/         # Controllers for MVC
-│   ├── service/            # Service layer
-│   ├── model/              # Model classes
-│   ├── aspect/             # Aspects for AOP
-│   └── repository/         # Data access layer
-│
-└── src/main/resources/
-    ├── application.properties   # Application configuration
-    └── templates/               # View templates (e.g., Thymeleaf, JSP)

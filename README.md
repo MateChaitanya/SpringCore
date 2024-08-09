@@ -9,9 +9,7 @@ Welcome to the **Spring Core** repository! This repository contains a collection
 - [MVC (Model-View-Controller)](#-mvc-model-view-controller)
 - [AOP (Aspect-Oriented Programming)](#-aop-aspect-oriented-programming)
 - [Annotations](#-annotations)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [License](#-license)
+
 
 ## 🌟 Introduction
 
